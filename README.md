@@ -1,9 +1,9 @@
 <br> 0.	Write a program to Print your name using > Expression
-<br> 1.	Write a program to Add two numbers
+<br> 1.	Write a program
+		<br> int add(int a, int b); to Add two numbers
 <br> Functions
 <br> 2.	Add two number using 4 function	using Pass by value
 		<br>int input();
-		<br> int add(int a, int b);
 		<br> void output(int a, int b, int sum);
 		<br> input:
 		<br>1
@@ -12,7 +12,7 @@
 		<br> sum of 1+2 is 3
 	
 <br>3.	Add two numbers using 4 functions and Pass by reference
-		<br> Pass by value
+		<br> Pass by value;
 		<br> void input(int *a, int *b);
 		<br> void add(int a, int b, int *sum);
 		<br> void output(int a, int b, int sum);
