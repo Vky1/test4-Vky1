@@ -1,5 +1,4 @@
- gcc -g p3final.c
- ./a.out
+ gcc -g p3final.c/a.out
 enter the value of a,b
 1 2 
 sum of a and b is 1+2=3 gdb a.out
@@ -36,3 +35,4 @@ n
 20  output(a,b,sum);
 (gdb) n
 21  return 0;
+ .
